@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582870684051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A90BD33F",
+    "lastKnownWriteTime" : 1582871522,
+    "last_content_update" : 1582871522973,
+    "path" : "~/Desktop/UW/5_DATA_598AB/DATA-598-WI20-week-7/mysimplecompendium/tests/testthat/test-functions.R",
+    "project_path" : "tests/testthat/test-functions.R",
+    "properties" : {
+        "cursorPosition" : "2,29",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

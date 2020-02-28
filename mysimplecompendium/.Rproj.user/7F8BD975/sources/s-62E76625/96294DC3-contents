@@ -1,0 +1,10 @@
+context("Check input list of squared function in  file R/functions.R")
+test_that({
+  expect_type(vec, "list")
+  expect_gt(length(vec), 0)
+})
+
+context("Check input value of lastval function in  file R/functions.R")
+test_that({
+  expect_type(val, "double")
+})
