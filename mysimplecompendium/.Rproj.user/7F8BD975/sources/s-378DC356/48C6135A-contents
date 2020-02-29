@@ -2,6 +2,7 @@
 # mysimplecompendium
 
 <!-- badges: start -->
+[![R build status](https://github.com/zlavogb/mysimplecompendium/workflows/R-CMD-check/badge.svg)](https://github.com/zlavogb/mysimplecompendium/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to demonstrate the use of simple tests and continuous integration in packages.
