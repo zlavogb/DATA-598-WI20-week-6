@@ -10,7 +10,6 @@ The goal of mysimplecompendium is to demonstrate the use of simple tests and con
 
 ## Installation
 
-You can install the released version of mysimplecompendium from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("mysimplecompendium")
@@ -27,4 +26,4 @@ Please see the included LICENSE.md for more information.
 
 
 ## Code of conduct
-Please see the included CODE_OF_CONDUCT.md for the guidelines governing this project.
+Please see the included [CODE_OF_CONDUCT.md](https://github.com/zlavogb/DATA-598-WI20-week-6/blob/master/CODE_OF_CONDUCT.md) for the guidelines governing this project.
